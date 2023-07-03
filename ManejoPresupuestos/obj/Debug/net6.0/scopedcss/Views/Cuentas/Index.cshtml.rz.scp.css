@@ -1,0 +1,34 @@
+.contenedor-totales[b-dtfn2716wq] {
+    display: flex;
+    justify-content: space-around;
+    font-size: 26px;
+    text-align: center;
+}
+
+.activo[b-dtfn2716wq] {
+    color: blue;
+}
+
+.pasivo[b-dtfn2716wq] {
+    color: red;
+}
+
+.acordeon-cuenta button[b-dtfn2716wq] {
+    color: black !important;
+    font-size: 20px;
+}
+
+    .acordeon-cuenta button > span[b-dtfn2716wq] {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+.acordeon-cuentas ul li[b-dtfn2716wq] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.acordeon-cuentas .acordion-collapse[b-dtfn2716wq] {
+    font-size: 18px;
+}
